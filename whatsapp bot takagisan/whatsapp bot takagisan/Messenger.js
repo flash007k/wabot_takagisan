@@ -13,7 +13,7 @@ const { liriklagu, quotemaker, randomNimek, fb, sleep, jadwalTv, ss, cerpen, cos
 const { help, snk, info, donate, readme, listChannel, } = require('./lib/help')
 const { stdout } = require('process')
 const premium_ = JSON.parse(fs.readFileSync('./lib/premium.json'))
-const welkom = JSON.parse(fs.readFileSync('./lib/welcome.json'))
+const welCOME = JSON.parse(fs.readFileSync('./lib/welcome.json'))
 const { RemoveBgResult, removeBackgroundFromImageBase64, removeBackgroundFromImageFile } = require('remove.bg')
 let antisticker = JSON.parse(fs.readFileSync('./lib/helper/antisticker.json'))
 let stickerspam = JSON.parse(fs.readFileSync('./lib/helper/stickerspam.json'))
@@ -48,16 +48,16 @@ module.exports = Messenger = async (takagisan, message) => {
         }
 
         const mess = {
-            wait: '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar',
+            wait: '[ WAIT ] In progress⏳ please wait a minute',
             error: {
-                St: '[❗] Kirim gambar dengan caption *!sticker* atau tag gambar yang sudah dikirim',
-                Qm: '[❗] Terjadi kesalahan, mungkin themenya tidak tersedia!',
-                Yt3: '[❗] Terjadi kesalahan, tidak dapat meng konversi ke mp3!',
-                Yt4: '[❗] Terjadi kesalahan, mungkin error di sebabkan oleh sistem.',
-                Ig: '[❗] Terjadi kesalahan, mungkin karena akunnya private',
-                Ki: '[❗] Bot tidak bisa mengeluarkan admin group!',
-                Ad: '[❗] Tidak dapat menambahkan target, mungkin karena di private',
-                Iv: '[❗] Link yang anda kirim tidak valid!'
+                St: '[❗] Send images with caption *!sticker* or tag images that have been sent',
+                Qm: '[❗] An error occurred, maybe the theme is not available!',
+                Yt3: '[❗] An error occurred, unable to convert mp3!',
+                Yt4: '[❗] An error occurred, possibly an error caused by the system.',
+                Ig: '[❗] An error occurred, possibly because the account is private',
+                Ki: '[❗] Bot can't eject group admin!',
+                Ad: '[❗] Unable to add target, possibly because it is private',
+                Iv: '[❗] The link you sent is invalid!'
             }
         }
         const apiKey = 'API-KEY'
