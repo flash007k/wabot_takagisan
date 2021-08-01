@@ -11,7 +11,7 @@ function help( pushname ) {
 ╿
 ╿➵ *BOT_Takagisan* 
 ╿➵ *VERS.5.0*
-╿➵ *Owner Bot:* wa.me/6283191735552
+╿➵ *Owner Bot:* wa.me/917895563559
 ╿
 ╿➪〘 ⌨️Bot_Command⌨️ 〙
 ╿➵ *${prefix}ownerbot*
@@ -28,15 +28,14 @@ function help( pushname ) {
 ╿➵ *${prefix}ttgif*
 ╿➵ *${prefix}triggered*
 ╿➵ *${prefix}jadwaltvnow*
-╿➵ *${prefix}lirik*
+╿➵ *${prefix}lyrics*
 ╿➵ *${prefix}jadwaltv2*
 ╿➵ *${prefix}tts*
 ╿➵ *${prefix}stickergif*
-╿➵ *${prefix}daftardaerah*
 ╿➵ *${prefix}duck*
 ╿➵ *${prefix}gives*
 ╿➵ *${prefix}doujinmoee*
-╿➵ *TOTAL FITUR:* 13
+╿➵ *TOTAL FEATURES:* 13
 ╿➪〘 ⌨️Group_Command⌨️ 〙
 ╿➵ *${prefix}linkgroup*
 ╿➵ *${prefix}kick*
@@ -52,7 +51,7 @@ function help( pushname ) {
 ╿➵ *${prefix}welcome*
 ╿➵ *${prefix}revLinkGrup*
 ╿➵ *TOTAL FITUR:* 13
-╿➪〘 ⌨️Hiburan_Command⌨️ 〙
+╿➪〘 ⌨️Diversion_Command⌨️ 〙
 ╿➵ *${prefix}meme*
 ╿➵ *${prefix}cakep*
 ╿➵ *${prefix}jadian*
@@ -62,7 +61,7 @@ function help( pushname ) {
 ╿➵ *${prefix}meme*
 ╿➵ *${prefix}kpop*
 ╿➵ *${prefix}quotemaker*
-╿➵ *TOTAL FITUR:* 9
+╿➵ *TOTAL FEATURES:* 9
 ╿➪〘 ⌨️Anime_Command⌨️ 〙
 ╿➵ *${prefix}wait*
 ╿➵ *${prefix}walpaper2*
@@ -71,7 +70,6 @@ function help( pushname ) {
 ╿➵ *${prefix}baka*
 ╿➵ *${prefix}randomwaifu*
 ╿➵ *${prefix}dog*
-╿➵ *${prefix}xnxxapp*
 ╿➵ *${prefix}nekopoiapp*
 ╿➵ *${prefix}cat*
 ╿➵ *${prefix}pokemon*
@@ -90,29 +88,28 @@ function help( pushname ) {
 ╿➵ *${prefix}dw*
 ╿➵ *${prefix}mecha*
 ╿➵ *${prefix}user*
-╿➵ *${prefix}karakter*
+╿➵ *${prefix}character*
 ╿➵ *${prefix}bganime*
-╿➵ *${prefix}karakter*
-╿➵ *TOTAL FITUR:* 31
-╿➪〘 ⌨️Motivasi_Command⌨️ 〙
+╿➵ *TOTAL FITUR:* 29
+╿➪〘 ⌨️Motivation_Command⌨️ 〙
 ╿➵ *${prefix}quotenime*
 ╿➵ *${prefix}bucin*
-╿➵ *${prefix}citacita*
+╿➵ *${prefix}feeling*
 ╿➵ *${prefix}fiersa*
 ╿➵ *${prefix}quotes*
 ╿➵ *${prefix}puisi*
 ╿➵ *${prefix}drama*
-╿➵ *${prefix}semangat*
-╿➵ *${prefix}fakta*
-╿➵ *${prefix}fakta2*
-╿➵ *${prefix}bijak*
+╿➵ *${prefix}enthusiasm*
+╿➵ *${prefix}fact*
+╿➵ *${prefix}fact2*
+╿➵ *${prefix}wise*
 ╿➵ *${prefix}game*
 ╿➵ *TOTAL FITUR:* 11
 ╿➪〘 ⌨️Owner_Command⌨️ 〙
 ╿➵ *${prefix}leaveall*
 ╿➵ *${prefix}clearall*
 ╿➵ *${prefix}bc*
-╿➵ *TOTAL FITUR:* 3
+╿➵ *TOTAL FEATURES:* 3
 ╿➪〘 ⌨️Premium_Command⌨️ 〙
 ╿➵ *${prefix}soundcita*
 ╿➵ *${prefix}ytmp3*
